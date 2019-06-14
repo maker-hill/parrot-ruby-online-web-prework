@@ -5,4 +5,4 @@ def parrot(phrase = "Squawk!")
   return phrase
 end
 
-parrot("Which way did he go!")
+return parrot("Which way did he go!")
